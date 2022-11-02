@@ -2,7 +2,7 @@ function checkPrime(question){
 
 let count=0;
 for  (let i = 1 ; i <= question ; i++ ){
-    if (question%2===0){
+    if (question%I===0){
         count++;
     }
 }
