@@ -1,3 +1,4 @@
+
 function checkPrime(num){
 
 let counter=0;
@@ -16,5 +17,5 @@ if (counter==2){
  if(ans==true){
  console.log("Prime");
  }else{
- console.log("Not Prime);
+ console.log("Not Prime");
  }
